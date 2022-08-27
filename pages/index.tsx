@@ -21,7 +21,7 @@ const Home: NextPage = () => {
          nae raste │
          research
         </h1>
-        
+        <Image src="/banner.png" alt="banner" width={811} height={336}/>
         <div style={{
           lineHeight: '1.8',
           padding: '4rem',
