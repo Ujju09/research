@@ -17,7 +17,7 @@ const Home: NextPage = () => {
 
       <main className={styles.mainDiksha}>
         <h1 className={styles.title}>
-      <Image src="/intersect.png" alt="notebook" width={50} height={50} />
+      <Image src="/nrsvg.svg" alt="notebook" width={50} height={50} />
          nae raste │
          research
         </h1>
