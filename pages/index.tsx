@@ -60,7 +60,7 @@ const Home: NextPage = () => {
               At the beginning and at the end of this period, you will take a test on that chapter. This will help us compare progress.
             </li>
             <li>
-              Teaching is meant to happen offline. So, tecaher can choose a place of his/her convinience to teach.
+              Teaching is meant to happen offline. So, teacher can choose a place of his/her convinience to teach.
             </li>
             <li>
               It will be a good idea to inform your parents about this project, and that you are participating.
