@@ -13,6 +13,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
         <link rel="manifest" href="/site.webmanifest"/>
         <link rel="apple-touch-icon" href="/apple-touch-icon.png"/>
+        <meta name="google-site-verification" content="SlF8pulxb_3mPZEUyISxKfwbgxW33EPV7eGacqL8sa4" />
       </Head>
 
       <main className={styles.mainDiksha}>
@@ -24,9 +25,9 @@ const Home: NextPage = () => {
         <Image src="/banner.png" alt="banner" width={811} height={336}/>
         <div style={{
           lineHeight: '1.8',
-          padding: '4rem',
-          fontSize: '1.5rem',
-          textAlign: 'justify',
+          padding: '2rem',
+          fontSize: '1.2rem',
+          textAlign: 'left',
           marginBottom: '1rem',
           
         }}>
@@ -68,11 +69,16 @@ const Home: NextPage = () => {
           </ul>
         </div>
         If you are willing to participate.
-        <Link href={`https://docs.google.com/forms/d/e/1FAIpQLScnL52KKJzT0ziFZh5ugH1fxsuqiBQVVClmL7qJ4TgIZPNbqg/viewform?usp=sf_link`}>
+       
+        <div style={{
+          padding: '2rem',
+        }}>
+           <Link href={`https://docs.google.com/forms/d/e/1FAIpQLScnL52KKJzT0ziFZh5ugH1fxsuqiBQVVClmL7qJ4TgIZPNbqg/viewform?usp=sf_link`}>
         <button className={styles.submitButton}>
           Fill out this Google Form
         </button>
         </Link>
+        </div>
         
       </main>
 
