@@ -32,13 +32,12 @@ const Home: NextPage = () => {
           
         }}>
           
-          The best learning happens when you teach. 
-          We are a team of researchers and educators and we want to help you learn. 
-          With nae raste, we are launching a <u style={{
+          The best learning happens when you teach. We are a team of researchers and educators who want to help you learn.
+           With nae raste, we are launching a <u style={{
            
             color: '#00bcd4'
           }}>peer-to-peer offline tutoring program</u>.
-          If you are a student in class 8 or above, you can participate in this research.<br/>
+          If you are in class 8 or above, you can participate in this research.<br/>
           <div style={{
             width:"100%",
             height:"2px",
@@ -52,19 +51,19 @@ const Home: NextPage = () => {
               You can participate as a teacher or a student.
             </li>
             <li>
-              You will be learning or teaching for 2-3 hrs per week for 1 month.
+            You will be learning or teaching for 2-3 hrs per week for one month.
             </li>
             <li>
-              You will be able to choose a chapter you want to teach or learn. We can also help with assigning chapters to you.
+            You can choose a chapter you want to teach or learn. We can also help with assigning chapters to you.
             </li>
             <li>
-              At the beginning and at the end of this period, you will take a test on that chapter. This will help us compare progress.
+            You will take a test on that chapter at the beginning and the end of this period. It will help us monitor progress.
             </li>
             <li>
-              Teaching is meant to happen offline. So, teacher can choose a place of his/her convinience to teach.
+            Teaching will happen offline. So, the teacher can choose a place of their convenience to teach.
             </li>
             <li>
-              It will be a good idea to inform your parents about this project, and that you are participating.
+            It will be a good idea to inform your parents about this project and that you are participating.
             </li>
           </ul>
         </div>
