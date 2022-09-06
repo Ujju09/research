@@ -24,9 +24,10 @@ const Home: NextPage = () => {
         </h1>
         <Image src="/banner.png" alt="banner" width={811} height={336}/>
         <div style={{
-          lineHeight: '1.8',
+          lineHeight: '2.0',
           padding: '2rem',
           fontSize: '1.2rem',
+          fontWeight: '300',
           textAlign: 'left',
           marginBottom: '1rem',
           
@@ -35,7 +36,8 @@ const Home: NextPage = () => {
           The best learning happens when you teach. We are a team of researchers and educators who want to help you learn.
            With nae raste, we are launching a <u style={{
            
-            color: '#00bcd4'
+            color: 'purple',
+            fontWeight: '600',
           }}>peer-to-peer offline tutoring program</u>.
           If you are in class 8 or above, you can participate in this research.<br/>
           <div style={{
